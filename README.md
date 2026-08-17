@@ -6,7 +6,7 @@ Discord에서 운영하는 Hermes, HQwen, Muse, Media 봇과 채널 구성의 �
 
 - `index.html` — 시작 대시보드
 - `channels.html` — 채널 지도와 선택 기준
-- `bots.html` — 봇별 역할과 멘션 예시
+- `bots.html` — 봇별 역할과 전용 채널 대화 예시
 - `workflows.html` — 글쓰기·로컬 추론·영상 생성 흐름
 - `troubleshooting.html` — 문제 해결과 안전 원칙
 
